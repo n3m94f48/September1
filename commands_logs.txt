@@ -1,0 +1,3 @@
+mkdir users ; touch users/user{0..206}.txt
+mkdir groups ; touch groups/group{0..68}.txt
+mkdir subjects ; touch subjects/subject{0..49}.txt
